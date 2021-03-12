@@ -1,1 +1,3 @@
-# Demo_Design_Flutter_Widget
+# Shadamata Shopping
+
+Widget practice for e-commerce app. It's just a design, will be updated with my progress.  
